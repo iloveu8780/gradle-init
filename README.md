@@ -1,2 +1,3 @@
 # gradle-init
-gradle-ABC
+first gradle app
+
